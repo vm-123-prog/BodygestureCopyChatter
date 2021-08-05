@@ -1,0 +1,7 @@
+numpy==1.21.0
+opencv-python==4.5.3
+tensorflow==2.5.0
+matplotlib==3.4.2
+future==0.18.2
+mxnet==1.8.0
+gluoncv=0.10.4
