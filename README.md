@@ -37,3 +37,9 @@ mxnet==1.8.0
 <br>
 gluoncv=0.10.4
 <hr>
+
+## Demo Video
+### Single Person Pose Detection
+<br>
+
+### Multi-Person Pose Detection
