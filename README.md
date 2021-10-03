@@ -40,6 +40,7 @@ gluoncv=0.10.4
 
 ## Demo Video
 ### Single Person Pose Detection
+https://www.youtube.com/watch?v=pVcm9asUgZg
 <br>
 
 ### Multi-Person Pose Detection
